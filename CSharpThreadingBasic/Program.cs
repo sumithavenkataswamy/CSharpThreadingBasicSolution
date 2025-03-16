@@ -33,7 +33,7 @@
 #endregion
 
 #region async programming with sequentially process
-// async programming with sequentially process
+// async programming with sequentially process, it can run single or multiple thread but it handled by automatically
 //Console.WriteLine("Main execution started " + Thread.CurrentThread.ManagedThreadId);
 //await Method1Async();
 //await Method2Async();
@@ -41,7 +41,10 @@
 #endregion 
 
 #region async programming with concurrent process 
-// async programming with concurrent process 
+// async programming with concurrent process, it can run single or multiple thread but it handled by automatically
+
+// Best for network calls, database queries, and file I/O.
+
 var method1Task = Method1Async();
 var method2Task = Method2Async();
 var method3Task = Method3Async();
@@ -49,6 +52,13 @@ var method3Task = Method3Async();
 await Task.WhenAll(method1Task, method2Task, method3Task);
 
 Console.WriteLine("Complete it");
+#endregion
+
+#region Parallel for paralle processing
+// Automatically distributes work across multiple CPU cores, cores is important for fast processing it.
+// Uses Task Parallel Library (TPL) for better performance.
+var names = new List<string>() { "string1", "string2", "string3" };
+Parallel.ForEach(names, x => Console.WriteLine(x));
 #endregion
 
 static async Task Method1Async()
