@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\bin\Debug\net8.0\CSharpThreadingBasic.exe
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\bin\Debug\net8.0\CSharpThreadingBasic.deps.json
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\bin\Debug\net8.0\CSharpThreadingBasic.runtimeconfig.json
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\bin\Debug\net8.0\CSharpThreadingBasic.dll
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\bin\Debug\net8.0\CSharpThreadingBasic.pdb
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.AssemblyInfo.cs
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.dll
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\refint\CSharpThreadingBasic.dll
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.pdb
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.genruntimeconfig.cache
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\ref\CSharpThreadingBasic.dll
