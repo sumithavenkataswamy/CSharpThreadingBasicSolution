@@ -7,6 +7,7 @@ C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\ob
 C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.AssemblyInfoInputs.cache
 C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.AssemblyInfo.cs
 C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.sourcelink.json
 C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.dll
 C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\refint\CSharpThreadingBasic.dll
 C:\Users\rishi\source\repos\CSharpThreadingBasicSolution\CSharpThreadingBasic\obj\Debug\net8.0\CSharpThreadingBasic.pdb
